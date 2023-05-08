@@ -1,0 +1,3 @@
+Barbara | Nolson | Paris | 22
+william | Cooper | Nice | 23
+David | Branch | Toulouse | 30
